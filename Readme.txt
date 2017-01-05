@@ -1,0 +1,1 @@
+srcollview嵌套listview 同时有viewpager，三者之间可能会有冲突的问题，这个demo提供解决冲突问题的方案。
